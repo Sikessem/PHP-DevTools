@@ -17,19 +17,6 @@
 
 PHP development, debugging, testing and automation tools.
 
-## 🔖 Contents
-
-- [🧪 PHP DevTools](#-php-devtools)
-  - [🔖 Contents](#-contents)
-  - [📋 Requirements](#-requirements)
-  - [⚡️ Installation](#️-installation)
-  - [👏 Contribution](#-contribution)
-    - [Code of Conduct](#code-of-conduct)
-    - [👥 Contributing Guide](#-contributing-guide)
-    - [🔒️ Good First Issues](#️-good-first-issues)
-    - [💬 Discussions](#-discussions)
-  - [🔐 Security Reports](#-security-reports)
-
 ## 📋 Requirements
 
 > - **Requires [PHP 8.2+](https://php.net/releases/)**
@@ -38,7 +25,8 @@ PHP development, debugging, testing and automation tools.
 
 ## ⚡️ Installation
 
-Install [PHP Dev Tools](https://packagist.org/packages/siguici/php-devtools) using [Composer](https://getcomposer.org/):
+Install [PHP DevTools](https://packagist.org/packages/siguici/php-devtools)
+using [Composer](https://getcomposer.org/):
 
 - By including the dependency:
 
@@ -55,35 +43,6 @@ Install [PHP Dev Tools](https://packagist.org/packages/siguici/php-devtools) usi
     }
   }
   ```
-
-## 👏 Contribution
-
-The main purpose of this repository is to continue evolving [⚡ Sigui][siguici-link].
-We want to make contributing to this project as easy and transparent as possible,
-and we are grateful to the community for contributing bug fixes and improvements.
-Read below to learn how you can take part in improving [⚡ Sigui][siguici-link].
-
-### [Code of Conduct][conduct-link]
-
-[⚡ Sigui][siguici-link] has adopted a Code of Conduct
-that we expect project participants to adhere to.
-Please read the [full text][conduct-link]
-so that you can understand what actions will and will not be tolerated.
-
-### 👥 [Contributing Guide][contrib-link]
-
-Read our [**Contributing Guide**][contrib-link] to learn about our development process,
-how to propose bugfixes and improvements,
-and how to build and test your changes to ⚡ Sigui.
-
-### 🔒️ Good First Issues
-
-We have a list of [good first issues][gfi] that contain bugs
-which have a relatively limited scope.
-This is a great place to get started, gain experience,
-and get familiar with our contribution process.
-
-[gfi]: https://github.com/siguici/php-devtools/labels/good%20first%20issue
 
 ### 💬 Discussions
 
@@ -110,6 +69,4 @@ Larger discussions and proposals are discussed in [**siguici's discussions**][di
 [license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-link]: https://github.com/siguici/php-devtools/blob/HEAD/LICENSE "DevTools License"
 
-[conduct-link]: https://github.com/siguici/.github/blob/HEAD/CODE_OF_CONDUCT.md
-[contrib-link]: https://github.com/siguici/.github/blob/HEAD/CONTRIBUTING.md
 [discuss-link]: https://github.com/siguici/siguici/discussions
