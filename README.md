@@ -39,7 +39,7 @@ using [Composer](https://getcomposer.org/):
   ```json
   {
     "require-dev" : {
-      "siguici/php-devtools": "^1.0"
+      "siguici/php-devtools": "^1.1"
     }
   }
   ```
