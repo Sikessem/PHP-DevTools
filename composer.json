@@ -66,7 +66,6 @@
         "nunomaduro/phpinsights": "^2.12",
         "pestphp/pest": "^2.36",
         "phpstan/phpstan": "^2.1",
-        "phpunit/phpunit": "^10.5",
         "rector/rector": "^2.0",
         "spatie/ignition": "^1.15",
         "spatie/ray": "^1.41",
