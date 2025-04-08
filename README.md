@@ -11,7 +11,7 @@ PHP development, debugging, testing and automation tools.
 ## 📋 Requirements
 
 > - **Requires [PHP 8.2+](https://php.net/releases/)**
-(at least 8.2.27 recommended to avoid potential bugs).
+(at least 8.2.28 recommended to avoid potential bugs).
 > - **Requires [Composer v2+](https://getcomposer.org/)** to manage PHP dependencies.
 
 ## ⚡️ Installation
@@ -30,7 +30,7 @@ using [Composer](https://getcomposer.org/):
   ```json
   {
     "require-dev" : {
-      "sikessem/php-devtools": "^1.1"
+      "sikessem/php-devtools": "^1.2"
     }
   }
   ```
