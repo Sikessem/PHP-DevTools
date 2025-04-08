@@ -1,7 +1,7 @@
 {
-    "name": "siguici/php-devtools",
+    "name": "sikessem/php-devtools",
     "description": "🧪 Tools needed for PHP project development and automation.",
-    "homepage": "https://packagist.org/packages/siguici/php-devtools",
+    "homepage": "https://packagist.org/packages/sikessem/php-devtools",
     "keywords": [
         "analyze-code",
         "automated-testing",
@@ -34,6 +34,7 @@
         "refactor",
         "siguici",
         "sigui",
+        "sikessem",
         "test",
         "test-automation",
         "test-tools",
@@ -53,9 +54,9 @@
         }
     ],
     "support": {
-        "source": "https://github.com/siguici/php-devtools",
-        "issues": "https://github.com/siguici/devtools/issues",
-        "chat": "https://github.com/siguici/siguici/discussions"
+        "source": "https://github.com/Sikessem/PHP-DevTools",
+        "issues": "https://github.com/Sikessem/PHP-DevTools/issues",
+        "chat": "https://github.com/orgs/Sikessem/discussions"
     },
     "require": {
         "php": ">=8.2",
