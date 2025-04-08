@@ -37,7 +37,7 @@ using [Composer](https://getcomposer.org/):
 
 ### 💬 Discussions
 
-Larger discussions and proposals are discussed in [**siguici's discussions**][discuss-link].
+Larger discussions and proposals are discussed in [**Sikessem's discussions**][discuss-link].
 
 ***
 
