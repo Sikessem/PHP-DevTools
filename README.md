@@ -54,8 +54,8 @@ Larger discussions and proposals are discussed in [**Sikessem's discussions**][d
 [ci-icon]: https://github.com/sikessem/php-devtools/workflows/CI/badge.svg
 [ci-link]: https://github.com/sikessem/php-devtools/actions "DevTools CI"
 
-[twitter-icon]: https://img.shields.io/twitter/follow/siguici.svg?label=@siguici
-[twitter-link]: https://twitter.com/intent/follow?screen_name=siguici "Ping ⚡ Sigui"
+[twitter-icon]: https://img.shields.io/twitter/follow/SikessemHQ.svg?label=@SikessemHQ
+[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemHQ "Ping ⚡ Sikessem"
 
 [license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-link]: https://github.com/sikessem/php-devtools/blob/HEAD/LICENSE "DevTools License"
