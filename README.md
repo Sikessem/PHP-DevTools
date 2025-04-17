@@ -16,21 +16,21 @@ PHP development, debugging, testing and automation tools.
 
 ## ⚡️ Installation
 
-Install [PHP DevTools](https://packagist.org/packages/sikessem/php-devtools)
+Install [PHP DevTools](https://packagist.org/packages/sikessem/devtools)
 using [Composer](https://getcomposer.org/):
 
 - By including the dependency:
 
   ```bash
-  composer require sikessem/php-devtools --dev --with-all-dependencies
+  composer require sikessem/devtools --dev --with-all-dependencies
   ```
 
-- Or by adding the `sikessem/php-devtools` dependency to your `composer.json` file:
+- Or by adding the `sikessem/devtools` dependency to your `composer.json` file:
 
   ```json
   {
     "require-dev" : {
-      "sikessem/php-devtools": "^1.2"
+      "sikessem/devtools": "^1.2"
     }
   }
   ```
@@ -45,19 +45,19 @@ Larger discussions and proposals are discussed in [**Sikessem's discussions**][d
 
 [siguici-link]: https://github.com/siguici "⚡ Sigui Kessé Emmanuel"
 
-[packagist-version-icon]: https://img.shields.io/packagist/v/sikessem/php-devtools
-[packagist-version-link]: https://packagist.org/packages/sikessem/php-devtools "DevTools Releases"
+[packagist-version-icon]: https://img.shields.io/packagist/v/sikessem/devtools
+[packagist-version-link]: https://packagist.org/packages/sikessem/devtools "DevTools Releases"
 
-[packagist-download-icon]: https://img.shields.io/packagist/dt/sikessem/php-devtools
-[packagist-download-link]: https://packagist.org/packages/sikessem/php-devtools "DevTools Downloads"
+[packagist-download-icon]: https://img.shields.io/packagist/dt/sikessem/devtools
+[packagist-download-link]: https://packagist.org/packages/sikessem/devtools "DevTools Downloads"
 
-[ci-icon]: https://github.com/sikessem/php-devtools/workflows/CI/badge.svg
-[ci-link]: https://github.com/sikessem/php-devtools/actions "DevTools CI"
+[ci-icon]: https://github.com/sikessem/devtools/workflows/CI/badge.svg
+[ci-link]: https://github.com/sikessem/devtools/actions "DevTools CI"
 
 [twitter-icon]: https://img.shields.io/twitter/follow/SikessemHQ.svg?label=@SikessemHQ
 [twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemHQ "Ping ⚡ Sikessem"
 
 [license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
-[license-link]: https://github.com/sikessem/php-devtools/blob/HEAD/LICENSE "DevTools License"
+[license-link]: https://github.com/Sikessem/PHP-Devtools/blob/HEAD/LICENSE "DevTools License"
 
 [discuss-link]: https://github.com/orgs/Sikessem/discussions
