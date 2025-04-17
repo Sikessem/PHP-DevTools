@@ -73,6 +73,9 @@
         "symfony/var-dumper": "^7.2",
         "vimeo/psalm": "^6.10"
     },
+    "suggest": {
+        "sikessem/laravel-devtools": "Provides Laravel-specific developer tools and integrations."
+    },
     "extra": {
         "branch-alias": {
             "dev-main": "1.x-dev"
