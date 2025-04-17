@@ -30,7 +30,7 @@ using [Composer](https://getcomposer.org/):
   ```json
   {
     "require-dev" : {
-      "sikessem/devtools": "^1.2"
+      "sikessem/devtools": "^1.3"
     }
   }
   ```
