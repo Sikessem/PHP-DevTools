@@ -61,17 +61,17 @@
     "require": {
         "php": ">=8.2",
         "fakerphp/faker": "^1.24",
-        "laravel/pint": "^1.21",
+        "laravel/pint": "^1.22",
         "mockery/mockery": "^1.6",
-        "nunomaduro/collision": "^8.7",
-        "nunomaduro/phpinsights": "^2.12",
-        "pestphp/pest": "^3.7",
+        "nunomaduro/collision": "^8.8",
+        "nunomaduro/phpinsights": "^2.13",
+        "pestphp/pest": "^3.8",
         "phpstan/phpstan": "^2.1",
         "rector/rector": "^2.0",
         "spatie/ignition": "^1.15",
         "spatie/ray": "^1.41",
         "symfony/var-dumper": "^7.2",
-        "vimeo/psalm": "^6.7"
+        "vimeo/psalm": "^6.10"
     },
     "extra": {
         "branch-alias": {
