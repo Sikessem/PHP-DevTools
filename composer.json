@@ -59,7 +59,7 @@
         "chat": "https://github.com/orgs/Sikessem/discussions"
     },
     "require": {
-        "php": ">=8.2",
+        "php": ">=8.3",
         "fakerphp/faker": "^1.24",
         "laravel/pint": "^1.26",
         "mockery/mockery": "^1.6",
