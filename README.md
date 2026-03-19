@@ -16,7 +16,7 @@ PHP and Laravel development, debugging, testing and automation tools.
 
 ## ⚡️ Installation
 
-Install [PHP DevTools](https://packagist.org/packages/sikessem/devtools)
+Install [DevTools](https://packagist.org/packages/sikessem/devtools)
 using [Composer](https://getcomposer.org/):
 
 - By including the dependency:
@@ -30,7 +30,7 @@ using [Composer](https://getcomposer.org/):
   ```json
   {
     "require-dev" : {
-      "sikessem/devtools": "^1.4"
+      "sikessem/devtools": "^1.5"
     }
   }
   ```
@@ -54,8 +54,8 @@ Larger discussions and proposals are discussed in [**Sikessem's discussions**][d
 [ci-icon]: https://github.com/sikessem/devtools/workflows/CI/badge.svg
 [ci-link]: https://github.com/sikessem/devtools/actions "DevTools CI"
 
-[twitter-icon]: https://img.shields.io/twitter/follow/SikessemHQ.svg?label=@SikessemHQ
-[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemHQ "Ping ⚡ Sikessem"
+[twitter-icon]: https://img.shields.io/twitter/follow/SikessemEng.svg?label=@SikessemEng
+[twitter-link]: https://twitter.com/intent/follow?screen_name=SikessemEng "Ping ⚡ Sikessem"
 
 [license-icon]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-link]: https://github.com/Sikessem/PHP-Devtools/blob/HEAD/LICENSE "DevTools License"
