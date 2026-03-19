@@ -1,6 +1,6 @@
-# [PHP](https://php.net/) DevTools 🧪 by [<img src="https://github.com/sikessem/art/blob/HEAD/images/logo.svg" alt="Sikessem" height="32" />](https://github.com/Sikessem "Sikessem")
+# [PHP](https://php.net/) & [Laravel](https://laravel.com/) DevTools 🧪 by [<img src="https://github.com/sikessem/art/blob/HEAD/images/logo.svg" alt="Sikessem" height="32" />](https://github.com/Sikessem "Sikessem")
 
-PHP development, debugging, testing and automation tools.
+PHP and Laravel development, debugging, testing and automation tools.
 
 [![ci-icon]][ci-link]
 [![packagist-version-icon]][packagist-version-link]

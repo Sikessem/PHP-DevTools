@@ -1,8 +1,9 @@
 {
     "name": "sikessem/devtools",
-    "description": "🧪 Tools needed for PHP project development and automation.",
-    "homepage": "https://packagist.org/packages/sikessem/php-devtools",
+    "description": "🧪 Tools needed for PHP and Laravel project development and automation.",
+    "homepage": "https://packagist.org/packages/sikessem/devtools",
     "keywords": [
+        "actions",
         "analyze-code",
         "automated-testing",
         "code-analyzer",
@@ -10,6 +11,7 @@
         "collision",
         "dd",
         "debug",
+        "debugbar",
         "debugger",
         "dev",
         "devtools",
@@ -18,8 +20,16 @@
         "dump",
         "fake",
         "faker",
+        "ide-helper",
         "ignition",
         "inspect-code",
+        "larastan",
+        "laravel",
+        "laravel-debugbar",
+        "laravel-devtools",
+        "laravel-test-tools",
+        "laravel-testing-tools",
+        "laravel-tools",
         "lint",
         "mock",
         "mockery",
@@ -32,8 +42,8 @@
         "ray",
         "rector",
         "refactor",
-        "siguici",
         "sigui",
+        "siguici",
         "sikessem",
         "test",
         "test-automation",
@@ -54,27 +64,39 @@
         }
     ],
     "support": {
-        "source": "https://github.com/Sikessem/PHP-DevTools",
-        "issues": "https://github.com/Sikessem/PHP-DevTools/issues",
+        "source": "https://github.com/Sikessem/DevTools",
+        "issues": "https://github.com/Sikessem/DevTools/issues",
         "chat": "https://github.com/orgs/Sikessem/discussions"
     },
     "require": {
         "php": ">=8.3",
+        "barryvdh/laravel-debugbar": "^4.1",
+        "barryvdh/laravel-ide-helper": "^3.7",
         "fakerphp/faker": "^1.24",
-        "laravel/pint": "^1.26",
+        "larastan/larastan": "^3.9",
+        "laravel/boost": "^2.3",
+        "laravel/dusk": "^8.4",
+        "laravel/pail": "^1.2",
+        "laravel/pint": "^1.29",
+        "laravel/sail": "^1.54",
         "mockery/mockery": "^1.6",
-        "nunomaduro/collision": "^8.8",
-        "nunomaduro/phpinsights": "^2.13",
-        "pestphp/pest": "^4.3",
+        "nunomaduro/collision": "^8.9",
+        "nunomaduro/phpinsights": "^2.14",
+        "orchestra/testbench": "^10.11",
+        "pestphp/pest": "^4.4",
+        "pestphp/pest-plugin-faker": "^4.0",
+        "pestphp/pest-plugin-laravel": "^4.1",
+        "pestphp/pest-plugin-livewire": "^4.1",
         "phpstan/phpstan": "^2.1",
+        "psalm/plugin-laravel": "^3.1",
         "rector/rector": "^2.3",
-        "spatie/ignition": "^1.15",
-        "spatie/ray": "^1.44",
+        "spatie/ignition": "^1.16",
+        "spatie/laravel-ignition": "^2.12",
+        "spatie/laravel-ray": "^1.43",
+        "spatie/ray": "^1.47",
         "symfony/var-dumper": "^7.4",
-        "vimeo/psalm": "^6.14"
-    },
-    "suggest": {
-        "sikessem/laravel-devtools": "Provides Laravel-specific developer tools and integrations."
+        "vimeo/psalm": "^6.16",
+        "wulfheart/laravel-actions-ide-helper": "^0.10.0"
     },
     "extra": {
         "branch-alias": {
@@ -87,6 +109,7 @@
         "sort-packages": true,
         "allow-plugins": {
             "pestphp/pest-plugin": true,
+            "php-http/discovery": true,
             "dealerdirect/phpcodesniffer-composer-installer": true
         }
     },
